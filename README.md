@@ -43,8 +43,8 @@ This repository explores the performance of different data mining algorithms app
 
 ### Authors:
 
-[Mirza Abbas Uddin - mirzaabbasuddin2@gmail.com]
-[Sanjana Hossain Sonali - sanjana.hossain62@gmail.com]
+1. Mirza Abbas Uddin - mirzaabbasuddin2@gmail.com
+2. Sanjana Hossain Sonali - sanjana.hossain62@gmail.com
 
 ### Contact:
 
