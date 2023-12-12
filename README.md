@@ -11,13 +11,26 @@ This repository explores the performance of different data mining algorithms app
 
 [[Adult](https://archive.ics.uci.edu/dataset/2/adult)]
 
-### Algorithm:
+### Algorithms:
 
-- k-means clustering
+- **k-means clustering**
+
+  The k-means algorithm is a popular method for partitioning a dataset into clusters. It aims to group similar data points together based on their feature similarity. The algorithm iteratively assigns data points to clusters and updates the cluster centers until convergence.
+
+- **k-modes clustering**
+
+  The k-modes algorithm is an extension of k-means specifically designed for categorical data. Unlike k-means, which uses the Euclidean distance, k-modes uses a dissimilarity measure tailored for categorical variables, making it suitable for datasets with mixed data types.
+
+- **k-prototype clustering**
+
+  The k-prototype algorithm combines k-means and k-modes to handle datasets with both numerical and categorical features. It aims to find clusters by minimizing the sum of squared distances for numerical variables and using a dissimilarity measure for categorical variables.
 
 ### Evaluation Metrics:
 
-- Euclidean distance between points
+- **Silhouette Score**
+
+  The Silhouette Score is a metric that quantifies how well-separated clusters are. It measures the cohesion within clusters and separation between clusters, providing a value between -1 and 1. A higher Silhouette Score indicates better-defined clusters.
+
 
 ### Repository Structure:
 
