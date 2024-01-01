@@ -35,8 +35,8 @@ This repository explores the performance of different data mining algorithms app
 ### Repository Structure:
 
 - `data`: Folder containing the dataset used in the study.
-- `code`: Folder containing code implementations for each algorithm.
-- `document`: Folder containing individual reports for each algorithm.
+- `code`: File containing code implementations for each algorithm.
+- `Report`: File containing overall reports of the implementations.
 - `readme.md`: This file.
 
 ### Requirements:
